@@ -25,6 +25,7 @@ Power BI	Dashboard creation, DAX measures, visualizations
 GitHub	Version control & portfolio hosting
 
 ## 📁 Repository Structure
+```
 
 global-sales-dashboard/
 │
@@ -44,6 +45,7 @@ global-sales-dashboard/
 │
 ├── README.md
 └── requirements.txt (if using Python)
+```
 
 #🔧 SQL Data Preparation (Full Script)
 ## 1️⃣ Combine All Country Tables into One Master Table
@@ -143,7 +145,7 @@ FROM General_Sales_table;
 ```
 ## 📈 Power BI Dashboard – Key Features
 
-https://./Screenshot%25202026-04-24%2520234520.png
+ ```https://./Screenshot%25202026-04-24%2520234520.png```
 
 #💡 Dashboard Business Recommendation
 ### 1. Payment Method
